@@ -2,6 +2,7 @@
 Applies filters to BMPs
 
 ## Background
+*This problem is from Problem Set 4 of Harvard's CS50 online course*
 
 ### Bitmaps
 
